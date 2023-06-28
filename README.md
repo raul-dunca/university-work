@@ -7,3 +7,4 @@
 - 🌐 [Graph Algorithms](https://github.com/raul-dunca/graph-algorithms)
 - 🧩 [Functional and logic programming](https://github.com/raul-dunca/functional-and-logic-programming)
 - 📊 [Probability and Statistics](https://github.com/raul-dunca/probability-and-statistics)
+- 🏢 [Database Management Systems](https://github.com/raul-dunca/dbsm)
