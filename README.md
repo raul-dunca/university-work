@@ -6,6 +6,7 @@
 - 🔑 [Public-key cryptography](https://github.com/raul-dunca/cryptography)
 - 💾 [Advanced Programming Methods](https://github.com/raul-dunca/advanced-Programming-methods)
 - 🏢 [Database Management Systems](https://github.com/raul-dunca/dbsm)
+- 📲  [Mobile application programming](https://github.com/raul-dunca/mobile-programming)
 - 🔧 [Systems for Design and Implementation](https://github.com/raul-dunca/mpp)
 - 🚀 [Formal languages and compiler design](https://github.com/raul-dunca/flcd/tree/main)
 - 💻 [Fundamentals of Programming](https://github.com/raul-dunca/-fundamentals-of-programming)
