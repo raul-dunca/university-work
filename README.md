@@ -6,6 +6,7 @@
 - 📑 [Databases](https://github.com/raul-dunca/databases)
 - 🏢 [Database Management Systems](https://github.com/raul-dunca/dbsm)
 - 🔧 [Systems for Design and Implementation](https://github.com/raul-dunca/mpp)
+- 🚀 [Formal languages and compiler design](https://github.com/raul-dunca/flcd/tree/main)
 - 💻 [Fundamentals of Programming](https://github.com/raul-dunca/-fundamentals-of-programming)
 - 🌐 [Graph Algorithms](https://github.com/raul-dunca/graph-algorithms)
 - 🧩 [Functional and logic programming](https://github.com/raul-dunca/functional-and-logic-programming)
