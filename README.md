@@ -3,6 +3,7 @@
 - 🕸️ [Web Programming](https://github.com/raul-dunca/web)
 - 🧰 [Data structures and algorithms](https://github.com/raul-dunca/data-structures-and-algorithms)
 - 📑 [Databases](https://github.com/raul-dunca/databases)
+- 🔗 [Parallel and distribuited programming](https://github.com/raul-dunca/pdp)
 - 🔑 [Public-key cryptography](https://github.com/raul-dunca/cryptography)
 - 💾 [Advanced Programming Methods](https://github.com/raul-dunca/advanced-Programming-methods)
 - 🏢 [Database Management Systems](https://github.com/raul-dunca/dbsm)
